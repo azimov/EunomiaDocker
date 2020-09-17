@@ -6,6 +6,7 @@ Based off the Eunomia sqlite project.
 
 ## Requirements
 Docker (tested on OSX with version 19.03.12)
+psql (or other client) to connect to the running container.
 
 ## Usage
 To build the docker container with Eunomia files
